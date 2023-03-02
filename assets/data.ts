@@ -36,12 +36,12 @@ export const data=[
     },
     {
         title: "Kasaragodu",
-        image: 'kasaragodu.jpeg',
+        image: 'kasaragodu.jpg',
         desc: 'Kasaragod is a municipal town and administrative headquarters of Kasaragod district'
     },
     {
         title: "Alappuzha",
-        image: 'alappuzha.jpeg',
+        image: 'alappuzha.jpg',
         desc: 'Alappuzha is the administrative headquarters of Alappuzha district in state of Kerala, India.'
     },
     {
